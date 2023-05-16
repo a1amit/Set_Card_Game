@@ -61,5 +61,5 @@ The game configuration is stored in the `config.properties` file. You can modify
 
 This project is licensed under the [MIT License](LICENSE).
 
-##More Info
-For a full understanding of the project, See the instructions
+## More Info
+For a full understanding of the project, open the instructions folder and read the instructions
