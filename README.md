@@ -9,6 +9,13 @@ To understand the game's objective and rules, you can refer to the original Set 
 
 ## My Version of the Game
 
+### Short demonstration video:
+
+
+
+https://github.com/a1amit/Set_Card_Game/assets/66822340/f295d40c-a46c-4c6a-82fc-f2486573b926
+
+
 ### Features and Cards
 
 The game consists of a deck of 81 cards. Each card represents a drawing with four features: color, number, shape, and shading. The values for these features vary within specific options.
