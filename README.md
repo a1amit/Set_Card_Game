@@ -9,7 +9,7 @@ To understand the game's objective and rules, you can refer to the original Set 
 
 ## My Version of the Game
 
-### Short demonstration video:
+### Short Demonstration Video:
 
 
 
